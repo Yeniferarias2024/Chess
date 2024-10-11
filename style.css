@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: chocolate;
+    background-color: rgb(66, 37, 15);
 }
 
 .beige {
@@ -34,3 +34,8 @@ body{
     display: flex;
     justify-content: center;
   }
+  .ruge-boogie-regular {
+    font-family: "Ruge Boogie", cursive;
+    font-weight: 400;
+    font-style: normal;}
+  
